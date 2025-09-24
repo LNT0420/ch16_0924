@@ -1,3 +1,11 @@
 C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\obj\Debug\netcoreapp3.1\ch_924.csprojAssemblyReference.cache
 C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\obj\Debug\netcoreapp3.1\ch_924.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\obj\Debug\netcoreapp3.1\ch_924.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\bin\Debug\netcoreapp3.1\ch_924.exe
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\bin\Debug\netcoreapp3.1\ch_924.deps.json
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\bin\Debug\netcoreapp3.1\ch_924.runtimeconfig.json
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\bin\Debug\netcoreapp3.1\ch_924.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\bin\Debug\netcoreapp3.1\ch_924.dll
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\bin\Debug\netcoreapp3.1\ch_924.pdb
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\obj\Debug\netcoreapp3.1\ch_924.dll
+C:\Users\Administrator\Desktop\D11416102\ch16_0924\ch_924\ch_924\obj\Debug\netcoreapp3.1\ch_924.pdb
